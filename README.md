@@ -1,4 +1,5 @@
-Library Management System: 
+#Library Management System: 
+
 This is a Flask-based Library Management System that organizes books into categories using a graph-based data structure. It allows users to add categories, add books, list books, and search for books efficiently.
 
 Features
@@ -22,6 +23,8 @@ Copy
 Edit
 git clone https://github.com/yourusername/library-management.git
 cd library-management
+
+
 Install dependencies:
 bash
 Copy
